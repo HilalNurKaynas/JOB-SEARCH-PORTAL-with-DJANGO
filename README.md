@@ -1,10 +1,3 @@
-# SideIncome
-
-Author: Tom ZK Wong
-
-Complete date: Oct 2018
-
-Project name: Side Income
 
 Language used: Python
 
