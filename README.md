@@ -10,6 +10,4 @@ Website intention:
 Description:
  - This website is written in Python with Django framework. Simple refer the Django documentation to host this website.
 
-What is not complete?
- - No report generated (Due to tight time schedule and not mentioned in the project document)
 
